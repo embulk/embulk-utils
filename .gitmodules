@@ -1,0 +1,32 @@
+[submodule "embulk-util-config"]
+	path = embulk-util-config
+	url = https://github.com/embulk/embulk-util-config.git
+	branch = main
+[submodule "embulk-util-csv"]
+	path = embulk-util-csv
+	url = https://github.com/embulk/embulk-util-csv.git
+	branch = main
+[submodule "embulk-util-file"]
+	path = embulk-util-file
+	url = https://github.com/embulk/embulk-util-file.git
+	branch = main
+[submodule "embulk-util-guess"]
+	path = embulk-util-guess
+	url = https://github.com/embulk/embulk-util-guess.git
+	branch = main
+[submodule "embulk-util-json"]
+	path = embulk-util-json
+	url = https://github.com/embulk/embulk-util-json.git
+	branch = main
+[submodule "embulk-util-rubytime"]
+	path = embulk-util-rubytime
+	url = https://github.com/embulk/embulk-util-rubytime.git
+	branch = main
+[submodule "embulk-util-text"]
+	path = embulk-util-text
+	url = https://github.com/embulk/embulk-util-text.git
+	branch = main
+[submodule "embulk-util-timestamp"]
+	path = embulk-util-timestamp
+	url = https://github.com/embulk/embulk-util-timestamp.git
+	branch = main
